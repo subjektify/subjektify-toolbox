@@ -1,0 +1,15 @@
+{
+  "name": "subjektify-toolbox",
+  "version": "0.0.1",
+  "description": "Essential plugins for streamlined development and management of decentralized applications using the Subjekt interface definition language.",
+  "author": "Subjektify Labs",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
