@@ -4,8 +4,9 @@
   "description": "The fundamental library of the Subjektify ecosystem, providing essential building blocks, code generation for popular languages, and utilities for developing decentralized applications (dApps) using Subjektify.",
   "author": "SubjektifyLabs",
   "license": "Apache-2.0",
-  "main": "index.js",
+  "main": "dist/index",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
